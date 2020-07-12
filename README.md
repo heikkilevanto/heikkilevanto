@@ -6,7 +6,8 @@ Open for job offers in Copenhagen, writing, testing, debugging, and even
 documenting C, C++, Perl, and many other languages. Last 20 years I have been
 with Index Data, working with bibliographic data in all its ugly forms. Before
 that, and probably soon again, free-lancing very varied kinds of jobs from
-microcontrollers to mainframes. Prefer Linux these days.
+microcontrollers to mainframes. These days I prefer Debian Linux, but am not
+religious about it.
 <!--
 **heikkilevanto/heikkilevanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
