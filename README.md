@@ -1,5 +1,12 @@
-### Hi there 👋
+### Writing code since 1972
 
+I have been programming all my life, since I was 8 years old.
+
+Open for job offers in Copenhagen, writing, testing, debugging, and even
+documenting C, C++, Perl, and many other languages. Last 20 years I have been
+with Index Data, working with bibliographic data in all its ugly forms. Before
+that, and probably soon again, free-lancing very varied kinds of jobs from
+microcontrollers to mainframes. Prefer Linux these days.
 <!--
 **heikkilevanto/heikkilevanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
