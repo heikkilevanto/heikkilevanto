@@ -2,10 +2,9 @@
 
 I have been programming all my life, since I was 8 years old.
 
-Open for job offers in Copenhagen, writing, testing, debugging, and even
-documenting C, C++, Perl, and many other languages. Last 20 years I have been
+Retired programmer in Copenhagen. For 2 decades I used to work
 with Index Data, working with bibliographic data in all its ugly forms. Before
-that, and probably soon again, free-lancing very varied kinds of jobs from
+that, free-lancing very varied kinds of jobs from
 microcontrollers to mainframes. These days I prefer Debian Linux, but am not
 religious about it.
 <!--
